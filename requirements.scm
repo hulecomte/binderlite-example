@@ -1,4 +1,7 @@
-numpy==1.16.*
-matplotlib==3.*
-seaborn==0.8.1
-pandas
+(specifications->manifest
+ '("python-ipython" 
+   "python-ipykernel" 
+   "python-ipywidgets" 
+   "python-matplotlib"
+   "python-wrapper"))
+
